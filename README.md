@@ -1,6 +1,6 @@
 # PandasHelpers
 
-small collection of helper funktions inspired by pandas and sklearn
+small collection of helper functions inspired by pandas and sklearn
 
 implemented so far:
 - get_dummies!
@@ -14,4 +14,6 @@ implemented so far:
 - Statsbase
 
 ### Getting started:
+- navigate to project folder
+- ] activate .
 - ] add "https://github.com/bileamScheuvens/PandasHelpers"
