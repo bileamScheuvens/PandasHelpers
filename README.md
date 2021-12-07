@@ -14,6 +14,4 @@ implemented so far:
 - Statsbase
 
 ### Getting started:
-- clone repository
-- navigate to folder and run `] activate .`, `add DataFrames`, `add Statsbase` in Julia REPL
-- import package with `using PandasHelpers`
+- ] add "https://github.com/bileamScheuvens/PandasHelpers"
