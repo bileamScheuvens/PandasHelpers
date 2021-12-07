@@ -1,8 +1,9 @@
 name = "PandasHelpers"
 
 version = "0.1.2"
-
+uuid = "6d4fb94f-c4b5-4ea8-89ac-e60dbe641112"
 authors = ["Bileam Scheuvns <benedictbileam@gmx.de>"]
+repo-url = "https://github.com/bileamScheuvens/PandasHelpers"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
